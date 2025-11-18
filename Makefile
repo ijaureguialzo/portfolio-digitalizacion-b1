@@ -6,8 +6,9 @@ help: _header
 	@echo ----------------------------
 	@echo build
 	@echo install
-	@echo start / stop
+	@echo start / stop / restart
 	@echo workspace
+	@echo logs
 	@echo clean
 	@echo ----------------------------
 
@@ -37,8 +38,13 @@ start: _start_command _urls
 stop:
 	@docker compose down
 
+restart: stop start
+
 workspace:
 	@docker compose run --rm jekyll /bin/bash
+
+logs:
+	@docker compose logs
 
 clean:
 	@docker compose down -v --remove-orphans
