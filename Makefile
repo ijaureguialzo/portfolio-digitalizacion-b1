@@ -5,9 +5,9 @@ help: _header
 	@echo Opciones:
 	@echo ----------------------------
 	@echo build
+	@echo install
 	@echo start / stop
 	@echo workspace
-	@echo serve
 	@echo clean
 	@echo ----------------------------
 
@@ -16,7 +16,6 @@ _urls: _header
 	@echo Sitios disponibles:
 	@echo ----------------------------
 	@echo [Jekyll] http://localhost:4000
-	@echo [Jekyll] http://localhost:35729
 	@echo ----------------------------
 
 _header:
@@ -31,9 +30,9 @@ install:
 	@docker compose run --rm jekyll /bin/sh -c 'bundle install'
 
 _start_command:
-	@docker compose run --rm --service-ports jekyll /bin/sh -c 'bundle exec jekyll serve --host 0.0.0.0'
+	@docker compose up -d
 
-start: _urls _start_command
+start: _start_command _urls
 
 stop:
 	@docker compose down
