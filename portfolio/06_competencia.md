@@ -1,0 +1,10 @@
+---
+layout: page
+permalink: /competencia/
+---
+
+# Desarrollo de la competencia digital del alumnado
+
+Página pendiente de desarrollar.
+
+[Volver](/)

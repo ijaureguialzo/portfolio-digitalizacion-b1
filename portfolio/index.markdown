@@ -2,5 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
+
+# Apartados del portfolio
+
+1. [Compromiso profesional](/compromiso/)
+2. [Contenidos digitales](/contenidos/)
+3. [Enseñanza y aprendizaje](/ensenyanza/)
+4. [Evaluación y retroalimentación](/evaluacion/)
+5. [Empoderamiento del alumnado](/empoderamiento/)
+6. [Desarrollo de la competencia digital del alumnado](/competencia/)
