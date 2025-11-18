@@ -1,0 +1,16 @@
+services:
+
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./portfolio:/jekyll
+      - root_data:/root
+      - gem_data:/usr/local/bundle
+
+volumes:
+  root_data:
+  gem_data:
