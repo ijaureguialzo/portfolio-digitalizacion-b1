@@ -7,4 +7,4 @@ permalink: /empoderamiento/
 
 Página pendiente de desarrollar.
 
-[Volver](/)
+[Volver]({% link index.md %})

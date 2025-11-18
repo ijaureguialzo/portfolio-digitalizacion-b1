@@ -23,7 +23,7 @@ author: Ion Jaureguialzo Sarasola
 description: >- # this means to ignore newlines until "baseurl:"
   Recopilación de recursos para elaborar el portfolio requerido
   en el curso para la obtención del nivel B1 de digitalización.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio-digitalizacion-b1" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
