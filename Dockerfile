@@ -1,4 +1,6 @@
-FROM ruby:3.2
+ARG RUBY_VERSION=3.2
+
+FROM ruby:${RUBY_VERSION}
 
 ENV LANG=C.UTF-8 \
     LC_ALL=C.UTF-8 \

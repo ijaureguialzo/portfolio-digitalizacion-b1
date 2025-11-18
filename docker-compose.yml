@@ -4,6 +4,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        - RUBY_VERSION=${RUBY_VERSION}
     command: bundle exec jekyll serve --host 0.0.0.0
     ports:
       - "4000:4000"
