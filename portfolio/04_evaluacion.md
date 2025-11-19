@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /evaluacion/
 ---
 
 # Evaluación y retroalimentación

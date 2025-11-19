@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /competencia/
 ---
 
 # Desarrollo de la competencia digital del alumnado
