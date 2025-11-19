@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Tarea 1.A: Contexto para la comunicación
+# Tarea 1.C: Normas de netiqueta
 
 Por hacer.
 
