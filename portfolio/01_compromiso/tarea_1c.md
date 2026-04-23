@@ -6,7 +6,7 @@ layout: page
 
 Esta es
 la <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG5MPeC9xo&#x2F;dbTJYMOURqrSojGwFUoCJg&#x2F;view?utm_content=DAG5MPeC9xo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
-infografía</a> creada en Canva:
+infografía</a> creada en Canva en la que se muestran las normas de netiqueta propuestas para el equipo:
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4141%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
