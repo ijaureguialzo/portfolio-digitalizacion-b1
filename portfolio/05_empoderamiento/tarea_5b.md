@@ -4,7 +4,8 @@ layout: page
 
 # Tarea 5.B: Personalización del aprendizaje en base al rastro digital
 
-El análisis de datos lo he hecho mediante una [hoja de cálculo](archivos/analisis.ods) creada en LibreOffice.
+El análisis de datos lo he hecho mediante una [hoja de cálculo](archivos/analisis.ods) creada
+en [LibreOffice](https://es.libreoffice.org/).
 
 Después de establecer filtros automáticos y una fórmula para asignar una nueva categoría "Ritmo" a cada estudiante, el
 resultado ha sido este:
