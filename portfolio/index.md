@@ -4,9 +4,20 @@ layout: default
 
 # Tema del portfolio
 
-- **Nivel**: Especialización en Ciberseguridad en entornos de las Tecnologías de la Información.
-- **Módulo**: Puesta en producción segura.
-- **Tema**: Control de versiones con Git. Qué es, cómo funciona y cómo podemos aplicarlo en el día a día.
+<table>
+<tr>
+<th>Nivel</th>
+<td>Especialización en Ciberseguridad en entornos de las Tecnologías de la Información</td>
+</tr>
+<tr>
+<th>Módulo</th>
+<td>Puesta en producción segura</td>
+</tr>
+<tr>
+<th>Tema</th>
+<td>Control de versiones con Git: qué es, cómo funciona y cómo aplicarlo en el día a día</td>
+</tr>
+</table>
 
 # Apartados del portfolio
 
