@@ -27,7 +27,7 @@ Hacia el final del curso, como actividad de refuerzo sobre buenas prácticas en 
 Se presenta a los grupos un proyecto de GitHub que contiene fallos críticos (ej.: una clave API expuesta, o código con
 una vulnerabilidad conocida).
 
-Los alumnos deben actuar como "Auditors de Código" y realizar un análisis crítico:
+Los alumnos deben actuar como "Auditores de Código" y realizar un análisis crítico:
 
 - Identificar el riesgo específico (¿es un fallo de Git?, ¿un error humano?).
 - Determinar la causa raíz del riesgo (ej.: falta de revisión, uso inadecuado de variables de entorno).
