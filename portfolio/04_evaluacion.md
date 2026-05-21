@@ -11,4 +11,10 @@ Estas son las tareas relacionadas con la evaluación y el feedback:
    04_evaluacion/tarea_4b.md %})
 3. [Tarea 4.C: Feedback utilizando herramientas digitales]({% link 04_evaluacion/tarea_4c.md %})
 
+## Vídeo
+
+Sexta entrega:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wm8hSse29Xg?si=a9fkPn7OWqFnORJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Volver]({% link index.md %})
