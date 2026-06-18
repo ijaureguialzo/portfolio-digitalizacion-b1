@@ -11,7 +11,7 @@ contenidos teorico/prácticos progresivos, para adecuarlos a cada nivel:
 
 Los contenidos son temas individuales con teoría y práctica, en formato OpenDocument y licencia CC-BY:
 
-![LibreOffice](../05_empoderamiento/imagenes/Captura%20de%20pantalla%202026-06-18%20a%20las%2016.41.11.png)
+![LibreOffice](../05_empoderamiento/imagenes/Captura%20de%20pantalla%202026-06-18%20a%20las%2020.31.39.png)
 
 También se incluye una versión alternativa de la explicación teórica para aquellos alumnos que prefieran trabajr el
 contenido de ese modo y [facilitar así la accesibilidad]({% link 05_empoderamiento/tarea_5a.md %}).

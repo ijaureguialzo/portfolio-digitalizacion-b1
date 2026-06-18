@@ -18,7 +18,7 @@ verse en esta captura:
 En la [tarea 2B]({% link 02_contenidos/tarea_2b.md %}) de profundización he utilizado documentos en formato abierto
 OpenDocument que contienen la teoría y la práctica a desarrollar en cada uno de los apartados.
 
-![LibreOffice](imagenes/Captura%20de%20pantalla%202026-06-18%20a%20las%2016.41.11.png)
+![LibreOffice](imagenes/Captura%20de%20pantalla%202026-06-18%20a%20las%2020.31.39.png)
 
 Para cada documento además se incluye una versión alternativa en vídeo (grabaciones de mi explicación en clases
 anteriores) para aquellos alumnos que prefieran trabajar el contenido de ese modo y facilitar así la accesibilidad.
