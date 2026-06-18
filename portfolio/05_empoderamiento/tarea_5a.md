@@ -6,7 +6,7 @@ layout: page
 
 ## Conocimientos básicos
 
-El primero contenido desarrollado en la [tarea 2A]({% link 02_contenidos/tarea_2a.md %}) del porfolio es un vídeo.
+El primer contenido desarrollado en la [tarea 2A]({% link 02_contenidos/tarea_2a.md %}) del porfolio es un vídeo.
 
 Para facilitar la accesibilidad de ese elemento he añadido subtítulos integrados en la propia plataforma, como puede
 verse en esta captura:
@@ -15,11 +15,15 @@ verse en esta captura:
 
 ## Profundizar conocimientos
 
-En la [tarea 2B]({% link 02_contenidos/tarea_2b.md %}) de profundización he utilizado archivos PDF, así que en este
-caso, he optado por proporcionar una [versión en texto de la presentación]({% link
-02_contenidos/pdf/03_git_flujo_ind_local.md %}).
+En la [tarea 2B]({% link 02_contenidos/tarea_2b.md %}) de profundización he utilizado documentos en formato abierto
+OpenDocument que contienen la teoría y la práctica a desarrollar en cada uno de los apartados.
 
-El formato en plano facilita leer el documento en cualquier tamaño de letra, modificarlo (en el PDF es muy complicado
-anotar encima dependiendo del software con el que se cuente) y copiar o reescribir los fragmentos que haga falta.
+![LibreOffice](imagenes/Captura%20de%20pantalla%202026-06-18%20a%20las%2016.41.11.png)
+
+Para cada documento además se incluye una versión alternativa en vídeo (grabaciones de mi explicación en clases
+anteriores) para aquellos alumnos que prefieran trabajar el contenido de ese modo y facilitar así la accesibilidad.
+
+- [Ejemplo de contenido en formato ODT](../02_contenidos/archivos/03_git_flujo_ind_local_extendido.odt).
+- [Ejemplo de contenido alternativo en vídeo](https://youtu.be/Qyejyu6dO_o?t=110).
 
 [Volver]({% link 05_empoderamiento.md %})
