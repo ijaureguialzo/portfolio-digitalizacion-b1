@@ -13,6 +13,6 @@ Estos son los diferentes contenidos digitales generados para trabajar el tema:
 
 Segunda entrega:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d45I_LcIYoI?si=LJfLuY40QD-pszBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Gtzb2Os5Bg?si=Ut3s_Nfww9x_-68a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Volver]({% link index.md %})
