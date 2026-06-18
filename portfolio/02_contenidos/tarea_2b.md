@@ -12,7 +12,7 @@ contenidos teorico/prácticos progresivos, para adecuarlos a cada nivel:
 Los contenidos son temas individuales con teoría y práctica.
 
 También se incluye una versión alternativa de la explicación teórica para aquellos alumnos que prefieran trabajr el
-contenido de ese modo y facilitar así la accesibilidad.
+contenido de ese modo y [facilitar así la accesibilidad]({% link 05_empoderamiento/tarea_5a.md %}).
 
 Contenidos:
 
